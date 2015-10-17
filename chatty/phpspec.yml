@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Chatty
+        psr4_prefix: Chatty
+        src_path: app
